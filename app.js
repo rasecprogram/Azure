@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
         <p>Deploy realizado via GitHub Actions!</p>
 
         <h2 style="color: blue;">
-            🚀 VERSÃO 2.0 🚀
+            🚀 VERSÃO 3.0 🚀
         </h2>
 
         <h3 style="background-color: yellow; display: inline-block; padding:8px;">
