@@ -1,0 +1,12 @@
+{
+  "name": "azure-node",
+  "version": "1.0.0",
+  "description": "Aplicação Node para Azure",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
